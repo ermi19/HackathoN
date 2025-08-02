@@ -3,7 +3,6 @@
 ## Project Overview
 This project is a responsive personal portfolio website developed to showcase the professional profile, skills, education, projects, interests, and contact information of Ermiyas Gera Fisha, a cybersecurity professional. The website emphasizes clean, semantic HTML5 and modern CSS3 techniques to create an accessible, visually appealing user experience.
 
----
 
 ## Features
 
@@ -21,56 +20,20 @@ This project is a responsive personal portfolio website developed to showcase th
 - **Downloadable CV:** Available for users to download in PDF format.
 - **Clean Codebase:** No external font or icon libraries; all visuals and layout implemented with pure HTML and CSS.
 
----
 
 ## Technology Stack
 
 - **HTML5:** Semantic markup for clear structure and improved SEO.
 - **CSS3:** Flexbox and Grid for layout, CSS variables and animations for styling and effects.
-- **No external libraries:** All fonts and icons replaced with system defaults and Unicode symbols for simplicity and performance.
-- **Responsive Design:** Media queries facilitate accessibility on various device widths.
-
----
 
 ## File Structure
 
-/assets/ # Contains images and CV PDF
+cv.pdf # My CV
+profile.jpg # image used for the portfolio
 index.html # Main HTML file
 styles.css # Primary stylesheet
 README.md # Project documentation
 
-
----
-
-## Development Details
-
-- **Code Quality:**  
-  - Structured for readability and maintainability with consistent naming conventions.  
-  - Inline CSS comments explaining major sections and design decisions.  
-  - Accessibility features such as ARIA labels, focus states, and keyboard navigation.
-
-- **UI Design Considerations:**  
-  - Dark theme chosen for contemporary aesthetic and reduced eye strain.  
-  - Gradients and shadows used to highlight important elements such as navigation and call-to-action buttons.  
-  - Buttons have clear focus and hover states for interaction feedback.
-
-- **Form Handling:**  
-  - Contact form includes validation via `required` attributes.  
-  - Designed to be extended with backend or JavaScript form handling as needed.
-
----
-
-## Deployment
-
-The project is suitable for deployment on static hosting services such as:
-
-- GitHub Pages
-- Netlify
-- Vercel
-
-To deploy, upload or push the repository files directly to the hosting service, with `index.html` as the entry point.
-
----
 
 ## Future Improvements
 
@@ -79,7 +42,6 @@ To deploy, upload or push the repository files directly to the hosting service, 
 - **Extended Responsiveness:** Optimizations for tablet and small screen usability.
 - **Content Expansion:** Additional portfolio projects and testimonials.
 
----
 
 ## Usage Instructions
 
@@ -89,7 +51,6 @@ To deploy, upload or push the repository files directly to the hosting service, 
 4. Edit `styles.css` to modify colors, fonts, or layout styles.
 5. Add backend form handling if needed.
 
----
 
 ## Contact
 
