@@ -59,6 +59,7 @@ For inquiries, collaboration, or consulting, you may reach Ermiyas Gera Fisha at
 - Email: [ermiyasgera@gmail.com](mailto:ermiyasgera@gmail.com)
 - LinkedIn: [linkedin.com/in/ermiyasgera](https://www.linkedin.com/in/ermiyasgera)
 - GitHub: [github.com/ermiyasgera](https://github.com/ermiyasgera)
+- Website URL: https://hackatho-n-eta.vercel.app/
 
 ---
 
